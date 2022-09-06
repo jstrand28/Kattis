@@ -8,12 +8,10 @@ int main() {
     scanf("%d", &n);
     int t[n];
     for(i=1;i<=n;i++){
-        int j, a, b;
+        int j;
         scanf("%d", &j);
         t[i]=j;
-        a = n-1;
-        b = n-2;
-        s = t[n]-(t[a]-t[b]);
+        s=t[n]-t[1];
     }
     if(n%2==0){
         printf("%d", s);
