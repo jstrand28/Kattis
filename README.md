@@ -2,7 +2,6 @@
 ## Kattis solutions
 
 #### C
-
 - [3dPrinter.c](https://github.com/jstrand28/Kattis/blob/main/3dPrinter.c)
 - [ABC.c](https://github.com/jstrand28/Kattis/blob/main/ABC.c)
 - [ADifferentProblem.c](https://github.com/jstrand28/Kattis/blob/main/ADifferentProblem.c)
@@ -63,8 +62,22 @@
 - [provincesandgold.c](https://github.com/jstrand28/Kattis/blob/main/provincesandgold.c)
 - [pyramids.c](https://github.com/jstrand28/Kattis/blob/main/pyramids.c)
 - [qaly.c](https://github.com/jstrand28/Kattis/blob/main/qaly.c)
+- [quadrant.c](https://github.com/jstrand28/Kattis/blob/main/quadrant.c)
+- [shattered_Cake.c](https://github.com/jstrand28/Kattis/blob/main/shattered_Cake.c)
+- [spavana.c](https://github.com/jstrand28/Kattis/blob/main/spavana.c)
+- [speeding.c](https://github.com/jstrand28/kattis/blob/main/speeding.c)
+- [speedlimit.c](https://github.com/jstrand28/Kattis/blob/main/speedlimit.c)
+- [square_peg.c](https://github.com/jstrand28/Kattis/blob/main/square_peg.c)
+- [stopwatch.c](https://github.com/jstrand28/Kattis/blob/main/stopwatch.c)
+- [take_two_stones.c](https://github.com/jstrand28/Kattis/blob/main/take_two_stones.c)
+- [tarifa.c](https://github.com/jstrand28/Kattis/blob/main/tarifa.c)
+- [tetration.c](https://github.com/jstrand28/Kattis/blob/main/tetration.c)
+- [transitwoes.c](https://github.com/jstrand28/Kattis/blob/main/transitwoes.c)
+- [turbo.c](https://github.com/jstrand28/Kattis/blob/main/turbo.c)
 
 
 #### Python
 
 #### C++
+
+- [99problems.cpp](https://github.com/jstrand28/Kattis/blob/main/99problems.cpp)
