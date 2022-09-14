@@ -1,2 +1,4 @@
 # Kattis
-Kattis solutions
+## Kattis solutions
+####C
+####Python
