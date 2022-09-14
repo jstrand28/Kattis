@@ -4,6 +4,17 @@
 - [Hello World!](https://open.kattis.com/problems/hello)
 - [Which is Greater?](https://open.kattis.com/problems/whichisgreater)
 - [Greetings!](https://open.kattis.com/problems/greetings2)
+- [GCVWR](https://open.kattis.com/problems/gcvwr)
+- [FYI](https://open.kattis.com/problems/fyi)
+- [Finding An A](https://open.kattis.com/problems/findingana)
+- [Electrical Outlets](https://open.kattis.com/problems/electricaloutlets)
+- [Echo Echo Echo](https://open.kattis.com/problems/echoechoecho)
+- [Dice Cup](https://open.kattis.com/problems/dicecup)
+- [Chanukah Challenge](https://open.kattis.com/problems/chanukah)
+- [Betting](https://open.kattis.com/problems/betting)
+- [Batter Up](https://open.kattis.com/problems/batterup)
+- [Autori](https://open.kattis.com/problems/autori)
+- [Odd Echo](https://open.kattis.com/problems/oddecho)
 
 #### C
 
