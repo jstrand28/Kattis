@@ -1,5 +1,9 @@
 # Kattis
-## Kattis solutions
+## Kattis Description
+
+- [Hello World!](https://open.kattis.com/problems/hello)
+- [Which is Greater?](https://open.kattis.com/problems/whichisgreater)
+- [Greetings!](https://open.kattis.com/problems/greetings2)
 
 #### C
 
@@ -79,7 +83,7 @@
 
 #### Python
 
-- [Hello World!](https://github.com/jstrand28/Kattis/blob/main/HelloWorld.py)
+- [HelloWorld.py](https://github.com/jstrand28/Kattis/blob/main/HelloWorld.py)
 
 #### C++
 
