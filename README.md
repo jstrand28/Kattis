@@ -44,7 +44,7 @@
 - [Janitor Troubles](https://open.kattis.com/problems/janitortroubles)
 - [IsItHalloween.com](https://open.kattis.com/problems/isithalloween)
 - [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone)
-- [Grass Seed Inc.](https://open.kattis.com/problems/grassseed)
+- [Grass Seed Inc.](https://github.com/jstrand28/Kattis/blob/main/Grass_seed_Inc.c)
 - [FizzBuzz](https://open.kattis.com/problems/fizzbuzz)
 - [Filip](https://open.kattis.com/problems/filip)
 - [Faktor](https://open.kattis.com/problems/faktor)
