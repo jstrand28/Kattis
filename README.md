@@ -1,4 +1,4 @@
 # Kattis
 ## Kattis solutions
-####C
-####Python
+#### C
+#### Python
