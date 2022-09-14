@@ -2,6 +2,7 @@
 ## Kattis solutions
 
 #### C
+
 - [3dPrinter.c](https://github.com/jstrand28/Kattis/blob/main/3dPrinter.c)
 - [ABC.c](https://github.com/jstrand28/Kattis/blob/main/ABC.c)
 - [ADifferentProblem.c](https://github.com/jstrand28/Kattis/blob/main/ADifferentProblem.c)
@@ -59,7 +60,7 @@
 - [oddities.c](https://github.com/jstrand28/Kattis/blob/main/oddities.c)
 - [pet.c](https://github.com/jstrand28/Kattis/blob/main/pet.c)
 - [pot.c](https://github.com/jstrand28/Kattis/blob/main/pot.c)
-- [provincesandgold.c](https://github.com/jstrand28/Kattis/blob/main/provincesandgold.c)
+- [provinencesandgold.c](https://github.com/jstrand28/Kattis/blob/main/provinencesandgold.c)
 - [pyramids.c](https://github.com/jstrand28/Kattis/blob/main/pyramids.c)
 - [qaly.c](https://github.com/jstrand28/Kattis/blob/main/qaly.c)
 - [quadrant.c](https://github.com/jstrand28/Kattis/blob/main/quadrant.c)
