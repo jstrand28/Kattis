@@ -1,5 +1,6 @@
-# Kattis
-## Kattis Description
+# Kattis Problems Solved
+
+### Problem Description
 
 - [Hello World!](https://open.kattis.com/problems/hello)
 - [Which is Greater?](https://open.kattis.com/problems/whichisgreater)
@@ -15,8 +16,28 @@
 - [Batter Up](https://open.kattis.com/problems/batterup)
 - [Autori](https://open.kattis.com/problems/autori)
 - [Odd Echo](https://open.kattis.com/problems/oddecho)
+- [Building Pyramids](https://open.kattis.com/problems/buildingpyramids)
+- [Two-sum](https://open.kattis.com/problems/twosum)
+- [Trik](https://open.kattis.com/problems/trik)
+- [Triangle Area](https://open.kattis.com/problems/trianglearea)
+- [Transit Woes](https://open.kattis.com/problems/transitwoes)
+- [Tarifa](https://open.kattis.com/problems/tarifa)
+- [Take Two Stones](https://open.kattis.com/problems/taketwostones)
+- [Stuck In a Time Loop](https://open.kattis.com/problems/stuckinatimeloop)
+- [Stopwatch](https://open.kattis.com/problems/stopwatch)
+- [Sort Two Numbers](https://open.kattis.com/problems/sorttwonumbers)
+- [Solving for Carrots](https://open.kattis.com/problems/solvingforcarrots)
+- [Sibice](https://open.kattis.com/problems/sibice)
+- [Shattered Cake](https://open.kattis.com/problems/shatteredcake)
+- [Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly)
+- [Provinces and Gold](https://open.kattis.com/problems/provincesandgold)
+- [Pot](https://open.kattis.com/problems/pot)
+- [Pet](https://open.kattis.com/problems/pet)
+- [Oddities](https://open.kattis.com/problems/oddities)
+- [N-sum](https://open.kattis.com/problems/nsum)
+- [Nasty Hacks](https://open.kattis.com/problems/nastyhacks)
 
-#### C
+##### C
 
 - [3dPrinter.c](https://github.com/jstrand28/Kattis/blob/main/3dPrinter.c)
 - [ABC.c](https://github.com/jstrand28/Kattis/blob/main/ABC.c)
@@ -92,10 +113,10 @@
 - [turbo.c](https://github.com/jstrand28/Kattis/blob/main/turbo.c)
 
 
-#### Python
+##### Python
 
 - [HelloWorld.py](https://github.com/jstrand28/Kattis/blob/main/HelloWorld.py)
 
-#### C++
+##### C++
 
 - [99problems.cpp](https://github.com/jstrand28/Kattis/blob/main/99problems.cpp)
