@@ -70,7 +70,7 @@
 - [Above Average](https://open.kattis.com/problems/aboveaverage)
 - [A Different Problem](https://open.kattis.com/problems/different)
 - [Alex and Barb](https://open.kattis.com/problems/alexandbarb)
-
+- [A Multiplication Game](https://open.kattis.com/problems/amultiplicationgame?editsubmit=9485732)
 
 
 ##### C
