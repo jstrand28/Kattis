@@ -156,3 +156,4 @@
 ##### C++
 
 - [99problems.cpp](https://github.com/jstrand28/Kattis/blob/main/99problems.cpp)
+- [AMultiplicationGame.cpp](https://github.com/jstrand28/Kattis/blob/main/AMultiplicationGame.cpp)
