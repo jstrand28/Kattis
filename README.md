@@ -72,6 +72,7 @@
 - [Alex and Barb](https://open.kattis.com/problems/alexandbarb)
 - [A Multiplication Game](https://open.kattis.com/problems/amultiplicationgame?editsubmit=9485732)
 - [Akcija](https://open.kattis.com/problems/akcija?editsubmit=9542451)
+- [Lost Lineup](https://open.kattis.com/problems/lostlineup?editsubmit=9543447)
 
 
 ##### C
@@ -149,6 +150,7 @@
 - [transitwoes.c](https://github.com/jstrand28/Kattis/blob/main/transitwoes.c)
 - [turbo.c](https://github.com/jstrand28/Kattis/blob/main/turbo.c)
 - [Akcija.c](https://github.com/jstrand28/Kattis/blob/main/akcija.c)
+- [LostLineup.c](https://github.com/jstrand28/Kattis/blob/main/LostLineup.c)
 
 
 ##### Python
