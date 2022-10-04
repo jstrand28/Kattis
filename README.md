@@ -71,6 +71,7 @@
 - [A Different Problem](https://open.kattis.com/problems/different)
 - [Alex and Barb](https://open.kattis.com/problems/alexandbarb)
 - [A Multiplication Game](https://open.kattis.com/problems/amultiplicationgame?editsubmit=9485732)
+- [Akcija](https://open.kattis.com/problems/akcija?editsubmit=9542451)
 
 
 ##### C
@@ -147,11 +148,13 @@
 - [tetration.c](https://github.com/jstrand28/Kattis/blob/main/tetration.c)
 - [transitwoes.c](https://github.com/jstrand28/Kattis/blob/main/transitwoes.c)
 - [turbo.c](https://github.com/jstrand28/Kattis/blob/main/turbo.c)
+- [Akcija.c](https://github.com/jstrand28/Kattis/blob/main/akcija.c)
 
 
 ##### Python
 
 - [HelloWorld.py](https://github.com/jstrand28/Kattis/blob/main/HelloWorld.py)
+- [akcija.py](https://github.com/jstrand28/Kattis/blob/main/akcija.py)
 
 ##### C++
 
