@@ -74,6 +74,7 @@
 - [Akcija](https://open.kattis.com/problems/akcija?editsubmit=9542451)
 - [Lost Lineup](https://open.kattis.com/problems/lostlineup?editsubmit=9543447)
 - [Roll Call](https://open.kattis.com/problems/rollcall?editsubmit=9545018)
+- [Average Speed](https://open.kattis.com/problems/averagespeed?editsubmit=9545412)
 
 
 ##### C
@@ -164,3 +165,4 @@
 
 - [99problems.cpp](https://github.com/jstrand28/Kattis/blob/main/99problems.cpp)
 - [AMultiplicationGame.cpp](https://github.com/jstrand28/Kattis/blob/main/AMultiplicationGame.cpp)
+- [AverageSpeed.cpp](https://github.com/jstrand28/Kattis/blob/main/AverageSpeed.cpp)
