@@ -73,6 +73,7 @@
 - [A Multiplication Game](https://open.kattis.com/problems/amultiplicationgame?editsubmit=9485732)
 - [Akcija](https://open.kattis.com/problems/akcija?editsubmit=9542451)
 - [Lost Lineup](https://open.kattis.com/problems/lostlineup?editsubmit=9543447)
+- [Roll Call](https://open.kattis.com/problems/rollcall?editsubmit=9545018)
 
 
 ##### C
@@ -157,6 +158,7 @@
 
 - [HelloWorld.py](https://github.com/jstrand28/Kattis/blob/main/HelloWorld.py)
 - [akcija.py](https://github.com/jstrand28/Kattis/blob/main/akcija.py)
+- [RollCall.py](https://github.com/jstrand28/Kattis/blob/main/RollCall.py)
 
 ##### C++
 
