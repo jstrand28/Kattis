@@ -76,6 +76,7 @@
 - [Roll Call](https://open.kattis.com/problems/rollcall?editsubmit=9545018)
 - [Average Speed](https://open.kattis.com/problems/averagespeed?editsubmit=9545412)
 - [Abstract Painting](https://open.kattis.com/problems/abstractpainting?editsubmit=9549389)
+- [Bootstrapping Numbers](https://open.kattis.com/problems/bootstrappingnumber?editsubmit=9549938)
 
 
 ##### C
@@ -162,6 +163,7 @@
 - [akcija.py](https://github.com/jstrand28/Kattis/blob/main/akcija.py)
 - [RollCall.py](https://github.com/jstrand28/Kattis/blob/main/RollCall.py)
 - [AbstractPainting.py](https://github.com/jstrand28/Kattis/blob/main/AbstractPainting.py)
+- [BootstrappingNumbers.py](https://github.com/jstrand28/Kattis/blob/main/BootstrappingNumbers.py)
 
 ##### C++
 
