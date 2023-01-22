@@ -170,3 +170,4 @@
 - [99problems.cpp](https://github.com/jstrand28/Kattis/blob/main/99problems.cpp)
 - [AMultiplicationGame.cpp](https://github.com/jstrand28/Kattis/blob/main/AMultiplicationGame.cpp)
 - [AverageSpeed.cpp](https://github.com/jstrand28/Kattis/blob/main/AverageSpeed.cpp)
+- [2048.cpp](https://github.com/jstrand28/Kattis/blob/main/2048.cpp)
