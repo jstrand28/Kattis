@@ -1,8 +1,3 @@
-/*
-  Written by Khoa Nguyen. November 2015.
-  Solving problem 2048 at https://open.kattis.com/problems/2048
- */
-
 #include <iostream>
 
 using namespace std;
