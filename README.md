@@ -173,6 +173,6 @@
 - [AMultiplicationGame.cpp](https://github.com/jstrand28/Kattis/blob/main/AMultiplicationGame.cpp)
 - [AverageSpeed.cpp](https://github.com/jstrand28/Kattis/blob/main/AverageSpeed.cpp)
 - [2048.cpp](https://github.com/jstrand28/Kattis/blob/main/2048.cpp)
-- [Knight_packing.cpp](https://github.com/jstrand28/Kattis/blob/main/Knight_packing.cpp)
-- [Jack-O'-Lantern Juxtaposition](https://github.com/jstrand28/Kattis/blob/main/Knight_packing.cpp)
+- [Knight_packing.cpp](https://github.com/jstrand28/Kattis/blob/main/Knight_Packing.cpp)
+- [Jack-O'-Lantern Juxtaposition](https://github.com/jstrand28/Kattis/blob/main/jackolanternjuxtaposition.cpp)
 
