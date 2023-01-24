@@ -77,6 +77,8 @@
 - [Average Speed](https://open.kattis.com/problems/averagespeed?editsubmit=9545412)
 - [Abstract Painting](https://open.kattis.com/problems/abstractpainting?editsubmit=9549389)
 - [Bootstrapping Numbers](https://open.kattis.com/problems/bootstrappingnumber?editsubmit=9549938)
+- [Jack-O'-Lantern Juxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition)
+- Knight Packing](https://open.kattis.com/problems/knightpacking)
 
 
 ##### C
@@ -171,3 +173,6 @@
 - [AMultiplicationGame.cpp](https://github.com/jstrand28/Kattis/blob/main/AMultiplicationGame.cpp)
 - [AverageSpeed.cpp](https://github.com/jstrand28/Kattis/blob/main/AverageSpeed.cpp)
 - [2048.cpp](https://github.com/jstrand28/Kattis/blob/main/2048.cpp)
+- [Knight_packing.cpp](https://github.com/jstrand28/Kattis/blob/main/Knight_packing.cpp)
+- [Jack-O'-Lantern Juxtaposition](https://github.com/jstrand28/Kattis/blob/main/Knight_packing.cpp)
+
