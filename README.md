@@ -80,6 +80,7 @@
 - [Jack-O'-Lantern Juxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition)
 - [Knight Packing](https://open.kattis.com/problems/knightpacking)
 - [Rating_problems](https://open.kattis.com/problems/ratingproblems?editsubmit=10297488)
+- [Baby Panda](https://open.kattis.com/problems/babypanda?editsubmit=10339565)
 
 
 ##### C
@@ -177,4 +178,4 @@
 - [Knight_packing.cpp](https://github.com/jstrand28/Kattis/blob/main/Knight_Packing.cpp)
 - [jackolanternjuxtaposition.cpp](https://github.com/jstrand28/Kattis/blob/main/jackolanternjuxtaposition.cpp)
 - [Rating_problems](https://github.com/jstrand28/Kattis/blob/main/Rating_Problems.cpp)
-
+- [BabyPanda.cpp](https://github.com/jstrand28/Kattis/blob/main/BabyPanda.cpp)
