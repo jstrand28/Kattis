@@ -81,6 +81,7 @@
 - [Knight Packing](https://open.kattis.com/problems/knightpacking)
 - [Rating_problems](https://open.kattis.com/problems/ratingproblems?editsubmit=10297488)
 - [Baby Panda](https://open.kattis.com/problems/babypanda?editsubmit=10339565)
+- [Alchemy 101](https://open.kattis.com/problems/alchemy101?editsubmit=10340468)
 
 
 ##### C
@@ -179,3 +180,4 @@
 - [jackolanternjuxtaposition.cpp](https://github.com/jstrand28/Kattis/blob/main/jackolanternjuxtaposition.cpp)
 - [Rating_problems](https://github.com/jstrand28/Kattis/blob/main/Rating_Problems.cpp)
 - [BabyPanda.cpp](https://github.com/jstrand28/Kattis/blob/main/BabyPanda.cpp)
+- [Alchemy_101.cpp](https://github.com/jstrand28/Kattis/blob/main/Alchemy_101.cpp)
