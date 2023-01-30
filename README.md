@@ -83,6 +83,7 @@
 - [Baby Panda](https://open.kattis.com/problems/babypanda?editsubmit=10339565)
 - [Alchemy 101](https://open.kattis.com/problems/alchemy101?editsubmit=10340468)
 - [From A to B](https://open.kattis.com/problems/fromatob?editsubmit=10346726)
+- [Homework](https://open.kattis.com/problems/heimavinna?editsubmit=10347241)
 
 
 ##### C
@@ -183,4 +184,4 @@
 - [BabyPanda.cpp](https://github.com/jstrand28/Kattis/blob/main/BabyPanda.cpp)
 - [Alchemy_101.cpp](https://github.com/jstrand28/Kattis/blob/main/Alchemy_101.cpp)
 - [From_A_to_B.cpp](https://github.com/jstrand28/Kattis/blob/main/From_A_to_B.cpp)
-
+- [Homework.cpp](https://github.com/jstrand28/Kattis/blob/main/Homework.cpp)
