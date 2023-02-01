@@ -84,6 +84,8 @@
 - [Alchemy 101](https://open.kattis.com/problems/alchemy101?editsubmit=10340468)
 - [From A to B](https://open.kattis.com/problems/fromatob?editsubmit=10346726)
 - [Homework](https://open.kattis.com/problems/heimavinna?editsubmit=10347241)
+- [ACM Contest Scoring](https://open.kattis.com/problems/acm?editsubmit=10365026)
+- [Amsterdamn Distance](https://open.kattis.com/problems/amsterdamdistance)
 
 
 ##### C
@@ -185,3 +187,5 @@
 - [Alchemy_101.cpp](https://github.com/jstrand28/Kattis/blob/main/Alchemy_101.cpp)
 - [From_A_to_B.cpp](https://github.com/jstrand28/Kattis/blob/main/From_A_to_B.cpp)
 - [Homework.cpp](https://github.com/jstrand28/Kattis/blob/main/Homework.cpp)
+- [Amsterdamn_distance.cpp](https://github.com/jstrand28/Kattis/blob/main/Amsterdam_distance.cpp)
+- [ACM_Contest_scoring.cpp](https://github.com/jstrand28/Kattis/blob/main/ACM_Contest_scoring.cpp)
