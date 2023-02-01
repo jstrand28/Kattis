@@ -188,4 +188,4 @@
 - [From_A_to_B.cpp](https://github.com/jstrand28/Kattis/blob/main/From_A_to_B.cpp)
 - [Homework.cpp](https://github.com/jstrand28/Kattis/blob/main/Homework.cpp)
 - [Amsterdamn_distance.cpp](https://github.com/jstrand28/Kattis/blob/main/Amsterdam_distance.cpp)
-- [ACM_Contest_scoring.cpp](https://github.com/jstrand28/Kattis/blob/main/ACM_Contest_scoring.cpp)
+- [ACM_Contest_scoring.cpp](https://github.com/jstrand28/Kattis/blob/main/ACM_Contest_Scoring.cpp)
