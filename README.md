@@ -86,7 +86,7 @@
 - [Homework](https://open.kattis.com/problems/heimavinna?editsubmit=10347241)
 - [ACM Contest Scoring](https://open.kattis.com/problems/acm?editsubmit=10365026)
 - [Amsterdamn Distance](https://open.kattis.com/problems/amsterdamdistance)
-- [Planina}(https://open.kattis.com/problems/planina?editsubmit=10371704)
+- [Planina](https://open.kattis.com/problems/planina?editsubmit=10371704)
 
 
 ##### C
