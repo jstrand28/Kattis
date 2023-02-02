@@ -1,5 +1,15 @@
 # Kattis Problems Solved
 
+## Functions Designed for Solutions
+
+```bash
+int getNum(char x){
+  int y = 0;
+  y = int(x - '0');
+  return y;
+}
+```
+
 ### Problem Description
 
 - [Hello World!](https://open.kattis.com/problems/hello)
