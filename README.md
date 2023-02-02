@@ -86,6 +86,7 @@
 - [Homework](https://open.kattis.com/problems/heimavinna?editsubmit=10347241)
 - [ACM Contest Scoring](https://open.kattis.com/problems/acm?editsubmit=10365026)
 - [Amsterdamn Distance](https://open.kattis.com/problems/amsterdamdistance)
+- [Planina}(https://open.kattis.com/problems/planina?editsubmit=10371704)
 
 
 ##### C
@@ -189,3 +190,4 @@
 - [Homework.cpp](https://github.com/jstrand28/Kattis/blob/main/Homework.cpp)
 - [Amsterdamn_distance.cpp](https://github.com/jstrand28/Kattis/blob/main/Amsterdam_distance.cpp)
 - [ACM_Contest_scoring.cpp](https://github.com/jstrand28/Kattis/blob/main/ACM_Contest_Scoring.cpp)
+- [Panina.cpp](https://github.com/jstrand28/Kattis/blob/main/planina.cpp)
