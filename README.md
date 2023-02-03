@@ -4,6 +4,7 @@
 - [Libraries](#libraries---what-i-use-in-library)
   - [iomanip](#iomanip)
 - [Functions](#functions-designed-for-solutions)
+  - [Get Number](#Get-Number)
 - [Problem Descriptions](#problem-description)
 - [C Problems](#c)
 - [Python Problems](#python)
@@ -19,6 +20,8 @@ cout << fixed << setprecision(num);
 ```
 
 ## Functions Designed for Solutions
+
+## Get Number
 
 ```bash
 int getNum(char x){
