@@ -12,7 +12,7 @@
 
 ## Libraries - What I use in Library
 
-### iomanip
+#### iomanip
 ```bash
 #include <iomanip>
 
@@ -21,7 +21,7 @@ cout << fixed << setprecision(num);
 
 ## Functions Designed for Solutions
 
-## Get Number
+#### Get Number
 
 ```bash
 int getNum(char x){
