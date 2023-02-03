@@ -17,6 +17,19 @@
 
 cout << fixed << setprecision(num);
 ```
+### string
+```bash
+#include <string>
+
+\\init string
+string str;
+
+\\find length of string
+int len = str.length();
+
+\\read data to string
+getline(cin, input_name);
+```
 
 ## Functions Designed for Solutions
 
@@ -115,6 +128,8 @@ int getNum(char x){
 - [ACM Contest Scoring](https://open.kattis.com/problems/acm?editsubmit=10365026)
 - [Amsterdamn Distance](https://open.kattis.com/problems/amsterdamdistance)
 - [Planina](https://open.kattis.com/problems/planina?editsubmit=10371704)
+- [Heart Rate](https://open.kattis.com/problems/heartrate?editsubmit=10381977)
+- [Eye of Sauron](https://open.kattis.com/problems/eyeofsauron)
 
 
 ##### C
@@ -219,3 +234,5 @@ int getNum(char x){
 - [Amsterdamn_distance.cpp](https://github.com/jstrand28/Kattis/blob/main/Amsterdam_distance.cpp)
 - [ACM_Contest_scoring.cpp](https://github.com/jstrand28/Kattis/blob/main/ACM_Contest_Scoring.cpp)
 - [Panina.cpp](https://github.com/jstrand28/Kattis/blob/main/planina.cpp)
+- [Heart_rate.cpp](https://github.com/jstrand28/Kattis/blob/main/Heart_rate.cpp)
+- [Eye_of_Sauron.cpp](https://github.com/jstrand28/Kattis/blob/main/Eye_of_Sauron.cpp)
