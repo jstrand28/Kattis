@@ -4,6 +4,7 @@
 - [Libraries](#libraries---what-i-use-in-library)
   - [iomanip](#iomanip)
 - [Functions](#functions-designed-for-solutions)
+  - [Get Number](#Get-Number)
 - [Problem Descriptions](#problem-description)
 - [C Problems](#c)
 - [Python Problems](#python)
@@ -11,7 +12,7 @@
 
 ## Libraries - What I use in Library
 
-### iomanip
+#### iomanip
 ```bash
 #include <iomanip>
 
@@ -32,6 +33,8 @@ getline(cin, input_name);
 ```
 
 ## Functions Designed for Solutions
+
+#### Get Number
 
 ```bash
 int getNum(char x){
