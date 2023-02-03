@@ -1,5 +1,23 @@
 # Kattis Problems Solved
 
+## Index
+- [Libraries](#libraries---what-i-use-in-library)
+  - [iomanip](#iomanip)
+- [Functions](#functions-designed-for-solutions)
+- [Problem Descriptions](#problem-description)
+- [C Problems](#c)
+- [Python Problems](#python)
+- [C++ Problems](#c-1)
+
+## Libraries - What I use in Library
+
+### iomanip
+```bash
+#include <iomanip>
+
+cout << fixed << setprecision(num);
+```
+
 ## Functions Designed for Solutions
 
 ```bash
