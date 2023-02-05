@@ -44,6 +44,30 @@ int getNum(char x){
 }
 ```
 
+#### Get Vowels
+
+```bash
+int getVowel(char x){
+    int count= 0;
+    if(x == 'a' || x == 'A'){
+        count++;
+    }
+    else if(x== 'e' || x == 'E'){
+        count++;
+    }
+    else if(x == 'I' || x == 'i'){
+        count++;
+    }
+    else if(x== 'O' || x == 'o'){
+        count++;
+    }
+    else if(x== 'U' || x== 'u'){
+        count++;
+    }
+    return count;
+}
+```
+
 ### Problem Description
 
 - [Hello World!](https://open.kattis.com/problems/hello)
@@ -136,6 +160,7 @@ int getNum(char x){
 - [Cryptographer's Conundrum](https://open.kattis.com/problems/conundrum?editsubmit=10391809)
 - [Piece of Cake!](https://open.kattis.com/problems/pieceofcake2?editsubmit=10412078)
 - [Zoom](https://open.kattis.com/problems/zoom?editsubmit=10412837)
+- [Count the Vowels](https://open.kattis.com/problems/countthevowels?editsubmit=10412933)
 
 
 ##### C
@@ -245,3 +270,4 @@ int getNum(char x){
 - [Crytographers_Conundrum.cpp](https://github.com/jstrand28/Kattis/blob/main/Cryptographers_Conundrum.cpp)
 - [Piece_of_Cake.cpp](https://github.com/jstrand28/Kattis/blob/main/Piece_of_Cake.cpp)
 - [Zoom.cpp](https://github.com/jstrand28/Kattis/blob/main/Zoom.cpp)
+- [Count_the_Vowels.cpp](https://github.com/jstrand28/Kattis/blob/main/Count_the_Vowels.cpp)
