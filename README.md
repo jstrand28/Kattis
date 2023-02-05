@@ -3,8 +3,12 @@
 ## Index
 - [Libraries](#libraries---what-i-use-in-library)
   - [iomanip](#iomanip)
+  - [string](#string)
+  - [math](#math)
 - [Functions](#functions-designed-for-solutions)
-  - [Get Number](#Get-Number)
+  - [Get Number](#get-number)
+  - [Get Vowels](#get-vowels)
+  - [Get Number of Decimal Places](#get-number-of-decimal-places)
 - [Problem Descriptions](#problem-description)
 - [C Problems](#c)
 - [Python Problems](#python)
@@ -32,7 +36,7 @@ int len = str.length();
 getline(cin, input_name);
 ```
 
-#### math.h
+#### math
 ```bash
 #include <math.h>
 
