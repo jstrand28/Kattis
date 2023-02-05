@@ -133,6 +133,8 @@ int getNum(char x){
 - [Planina](https://open.kattis.com/problems/planina?editsubmit=10371704)
 - [Heart Rate](https://open.kattis.com/problems/heartrate?editsubmit=10381977)
 - [Eye of Sauron](https://open.kattis.com/problems/eyeofsauron)
+- [Cryptographer's Conundrum](https://open.kattis.com/problems/conundrum?editsubmit=10391809)
+- [Piece of Cake!](https://open.kattis.com/problems/pieceofcake2?editsubmit=10412078)
 
 
 ##### C
@@ -239,3 +241,6 @@ int getNum(char x){
 - [Panina.cpp](https://github.com/jstrand28/Kattis/blob/main/planina.cpp)
 - [Heart_rate.cpp](https://github.com/jstrand28/Kattis/blob/main/Heart_rate.cpp)
 - [Eye_of_Sauron.cpp](https://github.com/jstrand28/Kattis/blob/main/Eye_of_Sauron.cpp)
+- [Crytographers_Conundrum.cpp](https://github.com/jstrand28/Kattis/blob/main/Cryptographers_Conundrum.cpp)
+- [Piece_of_Cake.cpp](https://github.com/jstrand28/Kattis/blob/main/Piece_of_Cake.cpp)
+- [](https://github.com/jstrand28/Kattis/blob/main/)

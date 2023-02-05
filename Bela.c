@@ -1,64 +1,42 @@
-#include <stdio.h>
+#include <iostream>
 
-int sum = 0;
-char s, a, b;
+using namespace std;
 
 int main() {
-    //input stage
-    int n, i, x;
-    scanf("%d %c", &n, &s);
-    //printf("%", s);
-    for(i=0;i<n;i++){
-        printf("%d", i);
-        for(x=0;x<4;x++){
-            scanf("%c", &a);
-            scanf("%c", &b);
-            printf("%d", x);
-            //printf("%c", a);
-            //printf("%c", b);
-            if(b == s){
-                //printf("%s", "Pass");
-                if(a == 'A'){
-                    sum+=11;
-                }
-                else if(a == 'K'){
-                    sum+=4;
-                }
-                else if(a == 'Q'){
-                    sum+=3;
-                }
-                else if(a == 'J'){
+    int n= 0, sum= 0, trig= 0;
+    char b, suit, val;
+    cin >> n >> b;
+    for(int i= 0;i < 4*n;i++){
+        trig= 0;
+        cin >> val >> suit;
+        if(suit == b) trig= 1;
+        switch(val){
+            case 'A':
+                sum+=11;
+                break;
+            case 'K':
+                sum+=4;
+                break;
+            case 'Q':
+                sum+=3;
+                break;
+            case 'J':
+                if(trig==1){
                     sum+=20;
                 }
-                else if(a == 'T'){
-                    sum+=10;
-                }
-                else if(a == '9'){
-                    sum+=14;
-                }
-            }
-            else{
-                if(a == 'A'){
-                    sum+=11;
-                }
-                else if(a == 'K'){
-                    sum+=4;
-                }
-                else if(a == 'Q'){
-                    sum+=3;
-                }
-                else if(a == 'J'){
+                else{
                     sum+=2;
                 }
-                else if(a == 'T'){
-                    sum+=10;
+                break;
+            case 'T':
+                sum+= 10;
+                break;
+            case '9':
+                if(trig==1){
+                    sum+= 14;
                 }
-                else{
-                    sum+=0;
-                }
-            }
+                break;
         }
     }
-    printf("%d", sum);
-    return 0;    
+    cout << sum;
 }
