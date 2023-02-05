@@ -18,7 +18,7 @@
 
 cout << fixed << setprecision(num);
 ```
-### string
+#### string
 ```bash
 #include <string>
 
@@ -31,6 +31,15 @@ int len = str.length();
 \\read data to string
 getline(cin, input_name);
 ```
+
+#### math.h
+```bash
+#include <math.h>
+
+pow(num1, num2);
+```
+
+[return](#index)
 
 ## Functions Designed for Solutions
 
@@ -67,6 +76,24 @@ int getVowel(char x){
     return count;
 }
 ```
+
+#### Get Number of Decimal Places
+```bash
+int getNumberDecimal(float x){
+    int count=0;
+    x = x-int(x);
+    if(x < 1){
+        do{
+            count++;
+            x*= 10;
+            x = x -int(x);
+        }while(x != 0);
+    }
+    return count;
+}
+```
+
+[return](#index)
 
 ### Problem Description
 
@@ -161,7 +188,11 @@ int getVowel(char x){
 - [Piece of Cake!](https://open.kattis.com/problems/pieceofcake2?editsubmit=10412078)
 - [Zoom](https://open.kattis.com/problems/zoom?editsubmit=10412837)
 - [Count the Vowels](https://open.kattis.com/problems/countthevowels?editsubmit=10412933)
+- [Sum Squared Digits Function](https://open.kattis.com/problems/sumsquareddigits?editsubmit=10413297)
+- [Double Password](https://open.kattis.com/problems/doublepassword?editsubmit=10413455)
+- [Metronome](https://open.kattis.com/problems/metronome)
 
+[return](#index)
 
 ##### C
 
@@ -240,6 +271,7 @@ int getVowel(char x){
 - [Akcija.c](https://github.com/jstrand28/Kattis/blob/main/akcija.c)
 - [LostLineup.c](https://github.com/jstrand28/Kattis/blob/main/LostLineup.c)
 
+[return](#index)
 
 ##### Python
 
@@ -248,6 +280,8 @@ int getVowel(char x){
 - [RollCall.py](https://github.com/jstrand28/Kattis/blob/main/RollCall.py)
 - [AbstractPainting.py](https://github.com/jstrand28/Kattis/blob/main/AbstractPainting.py)
 - [BootstrappingNumbers.py](https://github.com/jstrand28/Kattis/blob/main/BootstrappingNumbers.py)
+
+[return](#index)
 
 ##### C++
 
@@ -271,3 +305,8 @@ int getVowel(char x){
 - [Piece_of_Cake.cpp](https://github.com/jstrand28/Kattis/blob/main/Piece_of_Cake.cpp)
 - [Zoom.cpp](https://github.com/jstrand28/Kattis/blob/main/Zoom.cpp)
 - [Count_the_Vowels.cpp](https://github.com/jstrand28/Kattis/blob/main/Count_the_Vowels.cpp)
+- [Sum_Squared_Digits_Function.cpp](https://github.com/jstrand28/Kattis/blob/main/Sum_Squared_Digits_Function.cpp)
+- [Double_Password.cpp](https://github.com/jstrand28/Kattis/blob/main/Double_Password.cpp)
+- [Metronome.cpp](https://github.com/jstrand28/Kattis/blob/main/Metronome.cpp)
+
+[return](#index)
