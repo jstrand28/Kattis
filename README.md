@@ -195,6 +195,7 @@ int getNumberDecimal(float x){
 - [Sum Squared Digits Function](https://open.kattis.com/problems/sumsquareddigits?editsubmit=10413297)
 - [Double Password](https://open.kattis.com/problems/doublepassword?editsubmit=10413455)
 - [Metronome](https://open.kattis.com/problems/metronome)
+- [A List Game](https://open.kattis.com/problems/listgame)
 
 [return](#index)
 
@@ -312,5 +313,6 @@ int getNumberDecimal(float x){
 - [Sum_Squared_Digits_Function.cpp](https://github.com/jstrand28/Kattis/blob/main/Sum_Squared_Digits_Function.cpp)
 - [Double_Password.cpp](https://github.com/jstrand28/Kattis/blob/main/Double_Password.cpp)
 - [Metronome.cpp](https://github.com/jstrand28/Kattis/blob/main/Metronome.cpp)
+- [A_List_Game.cpp](https://github.com/jstrand28/Kattis/blob/main/A_List_Game.cpp)
 
 [return](#index)
