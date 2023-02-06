@@ -196,6 +196,7 @@ int getNumberDecimal(float x){
 - [Double Password](https://open.kattis.com/problems/doublepassword?editsubmit=10413455)
 - [Metronome](https://open.kattis.com/problems/metronome)
 - [A List Game](https://open.kattis.com/problems/listgame)
+- [Another Brick in the Wall](https://open.kattis.com/problems/anotherbrick)
 
 [return](#index)
 
@@ -314,5 +315,6 @@ int getNumberDecimal(float x){
 - [Double_Password.cpp](https://github.com/jstrand28/Kattis/blob/main/Double_Password.cpp)
 - [Metronome.cpp](https://github.com/jstrand28/Kattis/blob/main/Metronome.cpp)
 - [A_List_Game.cpp](https://github.com/jstrand28/Kattis/blob/main/A_List_Game.cpp)
+- [Another_Brick_in_the_wall.cpp](https://open.kattis.com/problems/anotherbrick)
 
 [return](#index)
