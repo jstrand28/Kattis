@@ -197,7 +197,8 @@ int getNumberDecimal(float x){
 - [Metronome](https://open.kattis.com/problems/metronome)
 - [A List Game](https://open.kattis.com/problems/listgame)
 - [Another Brick in the Wall](https://open.kattis.com/problems/anotherbrick)
-- [Poker_Hand.cpp](https://open.kattis.com/problems/pokerhand)
+- [Poker Hand](https://open.kattis.com/problems/pokerhand)
+- [Not Amused](https://open.kattis.com/problems/notamused)
 
 [return](#index)
 
@@ -287,6 +288,7 @@ int getNumberDecimal(float x){
 - [RollCall.py](https://github.com/jstrand28/Kattis/blob/main/RollCall.py)
 - [AbstractPainting.py](https://github.com/jstrand28/Kattis/blob/main/AbstractPainting.py)
 - [BootstrappingNumbers.py](https://github.com/jstrand28/Kattis/blob/main/BootstrappingNumbers.py)
+- [Not_Amused.py](https://github.com/jstrand28/Kattis/blob/main/Not_Amused.py)
 
 [return](#index)
 
