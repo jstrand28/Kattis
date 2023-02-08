@@ -114,6 +114,18 @@ int getMax(int n, int arr[], int last_max){
 }
 ```
 
+#### Harshad Numbers
+
+```bash
+int checkHarshad(int n)
+{
+    int sum = 0;
+    for (int temp = n; temp > 0; temp /= 10)
+        sum += temp % 10;
+    return (n % sum == 0);
+}
+```
+
 [return](#index)
 
 ### Problem Description
@@ -220,6 +232,7 @@ int getMax(int n, int arr[], int last_max){
 - [A Furious Cocktail](https://open.kattis.com/problems/cocktail)
 - [Alphabet Spam](https://open.kattis.com/problems/alphabetspam)
 - [Datum](https://open.kattis.com/problems/datum)
+- [Harshad Numbers](https://open.kattis.com/problems/harshadnumbers)
 
 [return](#index)
 
@@ -346,5 +359,6 @@ int getMax(int n, int arr[], int last_max){
 - [A_Furious_Cocktail.cpp](https://github.com/jstrand28/Kattis/blob/main/A_Furious_Cocktail.cpp)
 - [Alphabet_Spam.cpp](https://github.com/jstrand28/Kattis/blob/main/Alphabet_Spam.cpp)
 - [Datum.cpp](https://github.com/jstrand28/Kattis/blob/main/Datum.cpp)
+- [Harshad_Numbers.cpp](https://github.com/jstrand28/Kattis/blob/main/Harshad_Numbers.cpp)
 
 [return](#index)
