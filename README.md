@@ -343,6 +343,6 @@ int getMax(int n, int arr[], int last_max){
 - [Poker_Hand.cpp](https://github.com/jstrand28/Kattis/blob/main/Poker_Hand.cpp)
 - [A_Real_Challenge.cpp](https://github.com/jstrand28/Kattis/blob/main/A_Real_Challenge.cpp)
 - [A_Furious_Cocktail.cpp](https://github.com/jstrand28/Kattis/blob/main/A_Furious_Cocktail.cpp)
-- [Alphabet_Spam](https://github.com/jstrand28/Kattis/blob/main/Alphabet_Spam.cpp)
+- [Alphabet_Spam.cpp](https://github.com/jstrand28/Kattis/blob/main/Alphabet_Spam.cpp)
 
 [return](#index)
