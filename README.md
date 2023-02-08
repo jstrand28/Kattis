@@ -217,7 +217,7 @@ int getMax(int n, int arr[], int last_max){
 - [Poker Hand](https://open.kattis.com/problems/pokerhand)
 - [Not Amused](https://open.kattis.com/problems/notamused)
 - [A Real Challenge](https://open.kattis.com/problems/areal)
-- [A_Furious_Cocktail](https://open.kattis.com/problems/cocktail)
+- [A Furious Cocktail](https://open.kattis.com/problems/cocktail)
 - [Alphabet Spam](https://open.kattis.com/problems/alphabetspam)
 - [Datum](https://open.kattis.com/problems/datum)
 
