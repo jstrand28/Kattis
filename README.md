@@ -219,6 +219,7 @@ int getMax(int n, int arr[], int last_max){
 - [A Real Challenge](https://open.kattis.com/problems/areal)
 - [A_Furious_Cocktail](https://open.kattis.com/problems/cocktail)
 - [Alphabet Spam](https://open.kattis.com/problems/alphabetspam)
+- [Datum](https://open.kattis.com/problems/datum)
 
 [return](#index)
 
@@ -344,5 +345,6 @@ int getMax(int n, int arr[], int last_max){
 - [A_Real_Challenge.cpp](https://github.com/jstrand28/Kattis/blob/main/A_Real_Challenge.cpp)
 - [A_Furious_Cocktail.cpp](https://github.com/jstrand28/Kattis/blob/main/A_Furious_Cocktail.cpp)
 - [Alphabet_Spam.cpp](https://github.com/jstrand28/Kattis/blob/main/Alphabet_Spam.cpp)
+- [Datum.cpp](https://github.com/jstrand28/Kattis/blob/main/Datum.cpp)
 
 [return](#index)
