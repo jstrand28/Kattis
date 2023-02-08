@@ -9,6 +9,7 @@
   - [Get Number](#get-number)
   - [Get Vowels](#get-vowels)
   - [Get Number of Decimal Places](#get-number-of-decimal-places)
+  -[Get Max](#get-max)
 - [Problem Descriptions](#problem-description)
 - [C Problems](#c)
 - [Python Problems](#python)
@@ -94,6 +95,22 @@ int getNumberDecimal(float x){
         }while(x != 0);
     }
     return count;
+}
+```
+
+#### Get Max
+
+```bash
+int getMax(int n, int arr[], int last_max){
+    int max= 0;
+    for(int i=0;i<n;i++){
+        if(last_max > arr[i] || last_max == 0){
+            if(max < arr[i]){
+                max = arr[i];
+            }
+        }
+    }
+    return max;
 }
 ```
 
@@ -290,6 +307,7 @@ int getNumberDecimal(float x){
 - [AbstractPainting.py](https://github.com/jstrand28/Kattis/blob/main/AbstractPainting.py)
 - [BootstrappingNumbers.py](https://github.com/jstrand28/Kattis/blob/main/BootstrappingNumbers.py)
 - [Not_Amused.py](https://github.com/jstrand28/Kattis/blob/main/Not_Amused.py)
+- [A_Furious_Cocktail.py](https://github.com/jstrand28/Kattis/blob/main/A_Furious_Cocktail.py)
 
 [return](#index)
 
@@ -322,5 +340,6 @@ int getNumberDecimal(float x){
 - [Another_Brick_in_the_wall.cpp](https://github.com/jstrand28/Kattis/blob/main/Another_Brick_in_the_wall.cpp)
 - [Poker_Hand.cpp](https://github.com/jstrand28/Kattis/blob/main/Poker_Hand.cpp)
 - [A_Real_Challenge.cpp](htpps://github.com/jstrand28/kattis/blob/main/A_Real_Challenge.cpp)
+- [A_Furious_Cocktail.cpp](https://github.com/jstrand28/Kattis/blob/main/A_Furious_cocktail.cpp)
 
 [return](#index)
