@@ -233,6 +233,7 @@ int checkHarshad(int n)
 - [Alphabet Spam](https://open.kattis.com/problems/alphabetspam)
 - [Datum](https://open.kattis.com/problems/datum)
 - [Harshad Numbers](https://open.kattis.com/problems/harshadnumbers)
+- [Soylent](https://open.kattis.com/problems/soylent)
 
 [return](#index)
 
@@ -360,5 +361,6 @@ int checkHarshad(int n)
 - [Alphabet_Spam.cpp](https://github.com/jstrand28/Kattis/blob/main/Alphabet_Spam.cpp)
 - [Datum.cpp](https://github.com/jstrand28/Kattis/blob/main/Datum.cpp)
 - [Harshad_Numbers.cpp](https://github.com/jstrand28/Kattis/blob/main/Harshad_Numbers.cpp)
+- [Soylent.cpp](https://github.com/jstrand28/Kattis/blob/main/Soylent.cpp)
 
 [return](#index)
