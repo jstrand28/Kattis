@@ -261,6 +261,7 @@ int checkHarshad(int n)
 - [Harshad Numbers](https://open.kattis.com/problems/harshadnumbers)
 - [Soylent](https://open.kattis.com/problems/soylent)
 - [Reverse](https://open.kattis.com/problems/ofugsnuid)
+- [Final Exam](https://open.kattis.com/problems/finalexam)
 
 [return](#index)
 
@@ -390,5 +391,6 @@ int checkHarshad(int n)
 - [Harshad_Numbers.cpp](https://github.com/jstrand28/Kattis/blob/main/Harshad_Numbers.cpp)
 - [Soylent.cpp](https://github.com/jstrand28/Kattis/blob/main/Soylent.cpp)
 - [Reverse.cpp](https://github.com/jstrand28/Kattis/blob/main/Reverse.cpp)
+- [Final_Exam.cpp](https://github.com/jstrand28/Kattis/blob/main/Final_Exam.cpp)
 
 [return](#index)
