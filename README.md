@@ -262,6 +262,7 @@ int checkHarshad(int n)
 - [Soylent](https://open.kattis.com/problems/soylent)
 - [Reverse](https://open.kattis.com/problems/ofugsnuid)
 - [Final Exam](https://open.kattis.com/problems/finalexam)
+- [Rectangle Area](https://open.kattis.com/problems/rectanglearea)
 
 [return](#index)
 
@@ -392,5 +393,6 @@ int checkHarshad(int n)
 - [Soylent.cpp](https://github.com/jstrand28/Kattis/blob/main/Soylent.cpp)
 - [Reverse.cpp](https://github.com/jstrand28/Kattis/blob/main/Reverse.cpp)
 - [Final_Exam.cpp](https://github.com/jstrand28/Kattis/blob/main/Final_Exam.cpp)
+- [Rectangle_Area.cpp](https://github.com/jstrand28/Kattis/blob/main/Rectangle_Area.cpp)
 
 [return](#index)
