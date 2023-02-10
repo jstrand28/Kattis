@@ -37,11 +37,37 @@ int len = str.length();
 getline(cin, input_name);
 ```
 
-#### math
+#### cmath
 ```bash
-#include <math.h>
+#include <cmath>
 
 pow(num1, num2);
+```
+
+#### vector
+```bash
+#include <vector>
+
+//init
+vector <int> name;
+
+//store variables in a for loop
+name.pushback(var)
+
+//sends iter to the end
+name.end()
+
+//sends iter to the beginning
+name.begin()
+```
+
+#### algorithm
+
+```bash
+#include <algorithm>
+
+//reverse array or vector
+reverse(vector.begin(), vector.end());
 ```
 
 [return](#index)
@@ -234,6 +260,7 @@ int checkHarshad(int n)
 - [Datum](https://open.kattis.com/problems/datum)
 - [Harshad Numbers](https://open.kattis.com/problems/harshadnumbers)
 - [Soylent](https://open.kattis.com/problems/soylent)
+- [Reverse](https://open.kattis.com/problems/ofugsnuid)
 
 [return](#index)
 
@@ -362,5 +389,6 @@ int checkHarshad(int n)
 - [Datum.cpp](https://github.com/jstrand28/Kattis/blob/main/Datum.cpp)
 - [Harshad_Numbers.cpp](https://github.com/jstrand28/Kattis/blob/main/Harshad_Numbers.cpp)
 - [Soylent.cpp](https://github.com/jstrand28/Kattis/blob/main/Soylent.cpp)
+- [Reverse.cpp](https://github.com/jstrand28/Kattis/blob/main/Reverse.cpp)
 
 [return](#index)
