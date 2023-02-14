@@ -263,6 +263,7 @@ int checkHarshad(int n)
 - [Reverse](https://open.kattis.com/problems/ofugsnuid)
 - [Final Exam](https://open.kattis.com/problems/finalexam)
 - [Rectangle Area](https://open.kattis.com/problems/rectanglearea)
+- [Arrangement](https://open.kattis.com/problems/upprodun)
 
 [return](#index)
 
@@ -354,6 +355,7 @@ int checkHarshad(int n)
 - [BootstrappingNumbers.py](https://github.com/jstrand28/Kattis/blob/main/BootstrappingNumbers.py)
 - [Not_Amused.py](https://github.com/jstrand28/Kattis/blob/main/Not_Amused.py)
 - [A_Furious_Cocktail.py](https://github.com/jstrand28/Kattis/blob/main/A_Furious_Cocktail.py)
+- [Arrangement](https://github.com/jstrand28/Kattis/blob/main/Arrangement.py)
 
 [return](#index)
 
